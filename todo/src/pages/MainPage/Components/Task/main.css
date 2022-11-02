@@ -1,0 +1,15 @@
+.task {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.task-text {
+    margin: 0 5px;
+}
+
+.popover-content {
+    display: flex;
+}
